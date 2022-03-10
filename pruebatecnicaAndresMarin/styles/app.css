@@ -1,0 +1,11 @@
+.img-card-producto{
+  width: 45px;
+}
+
+
+
+@media (max-width: 768px) {
+  #carritoCompras2{
+    margin-top: 5rem;
+  }
+};
